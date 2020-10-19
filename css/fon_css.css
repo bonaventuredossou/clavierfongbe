@@ -5,6 +5,8 @@ padding: 0;
 body {
 font: 71%/1.5 Verdana, Sans-Serif;
 background: #34414e;
+    width: auto;
+    height: auto;
 }
 
 #container {
