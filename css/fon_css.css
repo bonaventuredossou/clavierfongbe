@@ -3,6 +3,8 @@ margin: 0;
 padding: 0;
 }
 body {
+    width: 100%;
+    height: auto;
 font: 71%/1.5 Verdana, Sans-Serif;
 background: #34414e;
 }
@@ -12,10 +14,12 @@ margin: auto;
 width: auto;
 }
 
+
 .wrapper{   
 max-width:75%;
 margin:auto;
 
+}
 #write {
 margin: 0 0 5px;
 padding: 5px;
@@ -72,7 +76,7 @@ list-style: none;
             #keyboard .diacritics {
                 background:black;
                 color: white;
-            width: 42.17px;
+            width: 39px;
             }
 
         .lastitem {
